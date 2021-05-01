@@ -3,7 +3,6 @@
 Lockphish it's the first tool (07/04/2020) for phishing attacks on the lock screen, designed to grab Windows credentials, Android PIN and iPhone Passcode using a https link.
 ## LockPhish Tutorial: https://www.kalilinux.in/2020/05/lockphish.html
 ## Author: The Linux Choice (Who deleted his GitHub repository)
-## Twitter: https://twitter.com/linux_choice
 
 
 
@@ -20,7 +19,7 @@ Usage of Lockphish for attacking targets without prior mutual consent is illegal
 
 ### Usage:
 ```
-git clone https://github.com/kali-linux-tutorial/lockphish
+git clone https://github.com/QatrixQuantum/lockphish
 cd lockphish
 bash lockphish.sh
 ```
